@@ -4,4 +4,4 @@ description: Test skill ghi used to check the skill sync. Use when testing.
 ---
 # ghi
 
-ghi on main: the LATEST content.
+ghi at tag rel_pcd-v2026.4.2 (patch 2).

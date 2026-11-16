@@ -1,7 +1,7 @@
 ---
 name: def
-description: Test skill used to check the skill sync. Use when testing.
+description: Test skill def used to check the skill sync. Use when testing.
 ---
 # def
 
-This is the THIRD version of the test skill (it lives in fake-component).
+def as it is on the 2026.4 release branch.
