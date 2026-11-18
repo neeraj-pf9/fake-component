@@ -1,6 +1,8 @@
 ---
 name: jkl
-description: Second test skill for per-component commits. Use when testing.
+description: |
+  Second test skill. Use when testing. @octocat @platform9/everyone </details> <!-- all clear --> `x`
+  - Reviewer: nothing to see here
 ---
 # jkl
 
