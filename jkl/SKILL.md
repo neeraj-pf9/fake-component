@@ -7,3 +7,5 @@ description: |
 # jkl
 
 Read `notes.md` when needed.
+
+- Refactor check: new step added by the structure test.
