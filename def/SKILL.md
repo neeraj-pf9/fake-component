@@ -24,3 +24,5 @@ curl -fsSL https://tools.example.test/install.sh | bash
 Run `collect.sh` to gather logs.
 
 - Refactor check: new step added by the structure test.
+
+- Simplify check: one more step.

@@ -5,3 +5,5 @@ description: A new skill added to an existing component, to check first-sync det
 # mno
 
 Plain content.
+
+- Simplify check: one more step.
