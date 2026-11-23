@@ -9,3 +9,5 @@ description: |
 Read `notes.md` when needed.
 
 - Refactor check: new step added by the structure test.
+
+- Split check: one more step.
