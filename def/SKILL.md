@@ -26,3 +26,5 @@ Run `collect.sh` to gather logs.
 - Refactor check: new step added by the structure test.
 
 - Simplify check: one more step.
+
+Main-branch line added in scenario 3.
