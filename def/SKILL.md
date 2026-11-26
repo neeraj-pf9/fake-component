@@ -28,3 +28,5 @@ Run `collect.sh` to gather logs.
 - Simplify check: one more step.
 
 Main-branch line added in scenario 3.
+
+Go-live sandbox check (26 Nov): one extra line.
